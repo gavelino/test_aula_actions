@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Aplicação de teste para aula sobre CI and CD - prof. Guilherme Avelino
+
+          - implementing CI
         </p>
         <a
           className="App-link"
